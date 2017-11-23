@@ -1,0 +1,1 @@
+SELECT * FROM exemplo1 WHERE c1 = 5020;
